@@ -25,16 +25,16 @@
  .card .text-container #head {
 	 font-family: 'Nobile', sans-serif;
 	 font-size: 1.5em;
-	 margin: 60px auto 60px auto;
+	 margin: 10px auto 10px auto;
 }
  .card p {
-	 font-size: 1.1em;
+	 font-size: .5em;
 	 line-height: 1.4;
 	 font-family: 'Nobile';
 	 color: #331717;
 	 font-style: italic;
 	 text-align: center;
-	 margin: 30px auto 0px auto;
+	 margin: 10px auto 0px auto;
 }
  .card .front {
 	 position: absolute;
@@ -264,7 +264,8 @@
  
 
 button {
-
+	margin-top: 10px;
+	margin-bottom: 10px;
     width: 100%;
     height: 100px;
 }
